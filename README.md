@@ -1,2 +1,2 @@
 # Alamin Online > Education
-alaminonline.com/education
+https://alaminonline.com/education
